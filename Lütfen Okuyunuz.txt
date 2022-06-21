@@ -1,0 +1,1 @@
+Whiteboise app ile Whitenoise app-win32-x64 rar dosyalarını aynı klasör içine kurunuz.
